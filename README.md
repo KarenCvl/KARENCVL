@@ -17,7 +17,7 @@ Buscando minha primeira oportunidade como **Estagiária de Engenharia de Softwar
 ---
 
 ### 📫 Vamos nos conectar?
-- **LinkedIn:** [Acesse meu perfil aqui](HTTPS://WWW.LINKEDIN.COM/IN/KAREN-CARVALHO-63A099371/)
+- **LinkedIn:** [Acesse meu perfil aqui](https://www.linkedin.com/in/karen-carvalho-63a099371/)
 - **E-mail:** [kacarvalhof27@gmail.com]
 
 ---
