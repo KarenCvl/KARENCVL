@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou a Karen! 👋
 
-<!--
-**KarenCvl/KARENCVL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Engenharia | Desenvolvedora Backend Python em formação
 
-Here are some ideas to get you started:
+Sou uma profissional em transição de carreira para a tecnologia, unindo a disciplina e a resiliência adquiridas no setor industrial (Reckitt) com a paixão pelo desenvolvimento de software. Atualmente, foco meus estudos no ecossistema Python para criar soluções eficientes e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ No que estou focada agora:
+- 🚀 **Backend:** Construindo APIs robustas utilizando **FastAPI**.
+- 💾 **Bancos de Dados:** Integração e manipulação de dados com **SQLAlchemy** e **SQLite**.
+- 🐍 **Lógica:** Aperfeiçoando algoritmos e boas práticas de programação em Python.
+
+### 📈 Meu Objetivo:
+Buscando minha primeira oportunidade como **Estagiária de Engenharia de Software / Backend** para aplicar meus conhecimentos e contribuir com times de tecnologia.
+
+---
+
+### 📫 Vamos nos conectar?
+- **LinkedIn:** [Acesse meu perfil aqui](HTTPS://WWW.LINKEDIN.COM/IN/KAREN-CARVALHO-63A099371/)
+- **E-mail:** [kacarvalhof27@gmail.com]
+
+---
+*“A persistência é o caminho do êxito.”*
